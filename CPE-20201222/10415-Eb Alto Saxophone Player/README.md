@@ -1,6 +1,3 @@
----
-tags: UVa question
----
 # UVa 10415-Eb Alto Saxophone Player
 
 [![hackmd-github-sync-badge](https://hackmd.io/PToJEyvqRh6Rah_WjOnsmQ/badge)](https://hackmd.io/PToJEyvqRh6Rah_WjOnsmQ)
@@ -55,3 +52,4 @@ CbCaDCbCbCCbCbabCCbCbabae
 0 1 1 1 0 0 1 1 1 1  
 1 1 1 1 0 0 1 1 1 0  
 1 8 10 2 0 0 2 2 1 0  
+###### tags: `UVa question`
