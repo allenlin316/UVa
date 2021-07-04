@@ -1,3 +1,6 @@
+---
+tags: UVa question
+---
 # UVa 10415-Eb Alto Saxophone Player
 
 ## 問題
