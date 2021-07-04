@@ -3,6 +3,9 @@ tags: UVa question
 ---
 # UVa 10415-Eb Alto Saxophone Player
 
+[![hackmd-github-sync-badge](https://hackmd.io/PToJEyvqRh6Rah_WjOnsmQ/badge)](https://hackmd.io/PToJEyvqRh6Rah_WjOnsmQ)
+
+
 ## 問題
 * 假設一首歌只會有14個音符(c,d,e,f,g,a,b,C,D,E,F,G,A,B)，每個音符的按法都不同  
 * 求一首歌結束後每一隻手指頭分別要按(Press)幾次
