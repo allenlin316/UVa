@@ -1,10 +1,6 @@
----
-tags: UVa question  
----
-# UVa 12218-An Industrial Spy
-
 [![hackmd-github-sync-badge](https://hackmd.io/8pby5Q1GQU2yvDesDr2jjw/badge)](https://hackmd.io/8pby5Q1GQU2yvDesDr2jjw)
 
+# UVa 12218-An Industrial Spy
 
 ## 問題
 * 給定一個數，把每個digit拆開再組合，請問可以組成幾個質數?
@@ -31,3 +27,4 @@ tags: UVa question
 * 把判斷完的質數放進set的容器，可以避免重複算到
 * 使用next_permutation()的函式做排列組合
 * 最後輸出set容器的size就可以知道答案
+###### tags: `UVa question`
