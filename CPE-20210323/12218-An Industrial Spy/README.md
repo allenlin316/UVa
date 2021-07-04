@@ -1,5 +1,5 @@
 ---
-tag: UVa question
+tags: UVa question  
 ---
 # UVa 12218-An Industrial Spy
 
