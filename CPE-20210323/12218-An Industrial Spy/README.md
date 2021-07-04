@@ -3,6 +3,9 @@ tags: UVa question
 ---
 # UVa 12218-An Industrial Spy
 
+[![hackmd-github-sync-badge](https://hackmd.io/8pby5Q1GQU2yvDesDr2jjw/badge)](https://hackmd.io/8pby5Q1GQU2yvDesDr2jjw)
+
+
 ## 問題
 * 給定一個數，把每個digit拆開再組合，請問可以組成幾個質數?
 
