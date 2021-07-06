@@ -1,4 +1,6 @@
+[![hackmd-github-sync-badge](https://hackmd.io/FxvcDf2OSIqkd2gwVmBKSA/badge)](https://hackmd.io/FxvcDf2OSIqkd2gwVmBKSA)
 # UVa 11960-Divisor Game
+
 
 ## 問題
 * 給定一個數N，不大於N的情況下，找到最大的值其有最多因數
@@ -30,3 +32,4 @@ for(int i=3; i<1000001; i++){
 10  
 37  
 
+###### tags: `UVa question`
