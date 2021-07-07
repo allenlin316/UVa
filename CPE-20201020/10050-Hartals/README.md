@@ -1,4 +1,6 @@
+[![hackmd-github-sync-badge](https://hackmd.io/8s0sVTiORpuFCAtxIwYnUA/badge)](https://hackmd.io/8s0sVTiORpuFCAtxIwYnUA)
 # UVa 10050-Hartals
+
 
 ## 問題
 * [可能要自己看文章會比較清楚](https://onlinejudge.org/external/100/10050.pdf)
