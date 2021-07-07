@@ -1,4 +1,6 @@
+[![hackmd-github-sync-badge](https://hackmd.io/Y316Ff0vStmFbpO_tYF2bg/badge)](https://hackmd.io/Y316Ff0vStmFbpO_tYF2bg)
 # UVa 11536-Smallest Sub-Array
+
 
 p.s. 這題根本不是二星題的難度阿~~ btw, 我們班的大神說這是滑窗的題目，值得一寫喔!!!
 
