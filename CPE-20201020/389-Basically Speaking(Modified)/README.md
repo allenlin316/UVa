@@ -1,4 +1,6 @@
+[![hackmd-github-sync-badge](https://hackmd.io/f-xUZ9F7RXaH1Y5oBg6MdQ/badge)](https://hackmd.io/f-xUZ9F7RXaH1Y5oBg6MdQ)
 # Modified from UVa 389 - Basically Speaking
+
 
 ## 問題
 * 進制轉換(可能的進制範圍從2~16)
@@ -36,3 +38,4 @@ ABCD 16 15
 0011001  
 000D071  
 0000003  
+###### tags: `UVa question`
