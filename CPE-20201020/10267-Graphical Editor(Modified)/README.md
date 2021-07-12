@@ -1,4 +1,6 @@
+[![hackmd-github-sync-badge](https://hackmd.io/tgQTnMvkToq6gU8mJGe7nw/badge)](https://hackmd.io/tgQTnMvkToq6gU8mJGe7nw)
 # UVa 10267 - Graphical Editor (Modified)
+
 CPE 跟 UVa 的題目只有 `table` 範圍不一樣
 
 ## 問題
