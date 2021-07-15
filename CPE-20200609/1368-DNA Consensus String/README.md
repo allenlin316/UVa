@@ -1,4 +1,6 @@
+[![hackmd-github-sync-badge](https://hackmd.io/23zCaxUjRUe4NqN0XzTZWQ/badge)](https://hackmd.io/23zCaxUjRUe4NqN0XzTZWQ)
 # UVa 1368 - DNA Consensus String
+
 
 ## 問題
 * 是一題高中生物題，雖然都忘了 XD
