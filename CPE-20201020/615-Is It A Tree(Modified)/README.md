@@ -1,4 +1,6 @@
+[![hackmd-github-sync-badge](https://hackmd.io/zYlYWtXnTcOoiHLShA8jcw/badge)](https://hackmd.io/zYlYWtXnTcOoiHLShA8jcw)
 # Modified from UVa 615 - Is It A Tree?
+
 CPE 要多輸出 root
 
 ## 問題
