@@ -1,4 +1,6 @@
+[![hackmd-github-sync-badge](https://hackmd.io/lmQ3ljHATfqs_AtXWEv-QA/badge)](https://hackmd.io/lmQ3ljHATfqs_AtXWEv-QA)
 # UVa 10189 - Minesweeper
+
 
 ## 問題
 * 要求出附近有幾個地雷
