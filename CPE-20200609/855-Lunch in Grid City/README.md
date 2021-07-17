@@ -1,6 +1,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/c7pqwoTKSCS9Q44nNetvQQ/badge)](https://hackmd.io/c7pqwoTKSCS9Q44nNetvQQ)
 # UVa 855 - Lunch in Grid City
 
+**因為 GitHub 不支援 LeTex 所以可以點 badge 到 HackMD 來看筆記**
 
 ## 問題
 找出一個點 (x,y) 到各個已知座標距離加總起來要最小
