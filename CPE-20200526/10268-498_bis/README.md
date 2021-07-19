@@ -1,5 +1,6 @@
-
+[![hackmd-github-sync-badge](https://hackmd.io/hLZT-EKvTkyADfEu0AC6BQ/badge)](https://hackmd.io/hLZT-EKvTkyADfEu0AC6BQ)
 # UVa 10268 - 498-bis
+
 我送了 uDebug、CPE 公開測資、ZeroJudge 都對，就是 UVa Online Judge WA  
 最後改掉一些誤差的地方就AC了   
 
