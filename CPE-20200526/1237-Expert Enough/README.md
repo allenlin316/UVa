@@ -1,5 +1,6 @@
-
+[![hackmd-github-sync-badge](https://hackmd.io/7vewdICLSHGwt0Z6mmKrhQ/badge)](https://hackmd.io/7vewdICLSHGwt0Z6mmKrhQ)
 # UVa 1237 - Expert Enough?
+
 
 ## 問題
 * 給了一堆車子品牌與價錢，及顧客的預算價錢
