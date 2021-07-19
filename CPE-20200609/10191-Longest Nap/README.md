@@ -1,4 +1,4 @@
-
+[![hackmd-github-sync-badge](https://hackmd.io/wrUzzBAHTvm3kIangMqkaQ/badge)](https://hackmd.io/wrUzzBAHTvm3kIangMqkaQ)
 # UVa 10191 - Longest Nap
 
 ## 問題
