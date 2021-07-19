@@ -1,5 +1,6 @@
-
+[![hackmd-github-sync-badge](https://hackmd.io/wjyYrxBKRN-an_rHYLXB3g/badge)](https://hackmd.io/wjyYrxBKRN-an_rHYLXB3g)
 # UVa 263 - Number Chains
+
 
 ## 問題
 * 給一個數，把它重組成大到小與小到大，兩個做相減，求出新的數就是為一個 Number Chain
