@@ -1,5 +1,6 @@
-
+[![hackmd-github-sync-badge](https://hackmd.io/h_D7BlaUSV6-z4FX1m_l0Q/badge)](https://hackmd.io/h_D7BlaUSV6-z4FX1m_l0Q)
 # UVa 12918 - Lucky Thief
+
 
 ## 問題
 * 小偷有n把鑰匙，需要最少試幾次(minimum tries)才能找到對應的house
