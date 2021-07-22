@@ -1,5 +1,6 @@
-
+[![hackmd-github-sync-badge](https://hackmd.io/Hcqzd5J0QQu9uFHKFKeLvA/badge)](https://hackmd.io/Hcqzd5J0QQu9uFHKFKeLvA)
 # UVa 1316 - Supermarket
+
 
 ## 問題
 * 給你一堆商品價錢與期限，問你最高獲利是多少
