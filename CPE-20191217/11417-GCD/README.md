@@ -1,5 +1,8 @@
+[![hackmd-github-sync-badge](https://hackmd.io/OxQjonITS3qJwCwEtmOOGw/badge)](https://hackmd.io/OxQjonITS3qJwCwEtmOOGw)
 
 # UVa 11417 - GCD
+
+
 
 ## 問題
 * ![題目](https://i.imgur.com/chFgwAp.png) (節錄自[UVa](https://cpe.cse.nsysu.edu.tw/cpe/file/attendance/problemPdf/11417.pdf))
