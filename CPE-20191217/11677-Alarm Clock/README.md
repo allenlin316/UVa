@@ -1,5 +1,8 @@
+[![hackmd-github-sync-badge](https://hackmd.io/8FHrmzFdQeamVELI-H-Y3g/badge)](https://hackmd.io/8FHrmzFdQeamVELI-H-Y3g)
 
 # UVa 11677 - Alarm Clock
+
+
 
 ## 問題
 * 第一對時間(hour1,minute1)，第二對時間(hour2,minute2)  
