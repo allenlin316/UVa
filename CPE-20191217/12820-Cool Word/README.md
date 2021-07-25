@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/kd59igrUSW6a6rgjHIYnVw/badge)](https://hackmd.io/kd59igrUSW6a6rgjHIYnVw)
 
 # UVa 12820 - Cool Word
 
