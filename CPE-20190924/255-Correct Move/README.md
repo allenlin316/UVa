@@ -1,5 +1,8 @@
+[![hackmd-github-sync-badge](https://hackmd.io/fI3JYvMPRJCz_m5renhwkg/badge)](https://hackmd.io/fI3JYvMPRJCz_m5renhwkg)
 
 # UVa 255 - Correct Move
+
+
 
 ## 問題
 * 一個棋盤遊戲，規則如下
