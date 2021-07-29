@@ -1,5 +1,8 @@
+[![hackmd-github-sync-badge](https://hackmd.io/5fYFnRhvQ_KRY5d1NfzZKg/badge)](https://hackmd.io/5fYFnRhvQ_KRY5d1NfzZKg)
 
 # UVa 10813 - Traditional BINGO
+
+
 
 ## 問題
 * 傳統 Bingo 遊戲
