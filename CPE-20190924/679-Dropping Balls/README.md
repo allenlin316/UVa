@@ -1,5 +1,8 @@
+[![hackmd-github-sync-badge](https://hackmd.io/QurqJ-vHS9W0RvHB17iKpg/badge)](https://hackmd.io/QurqJ-vHS9W0RvHB17iKpg)
 
 # UVa 679 - Dropping Balls
+
+
 
 ## 問題
 * 有一棵完滿二元樹(full binary tree)，每一個節點都有 flag(true or false)
