@@ -1,5 +1,7 @@
+[![hackmd-github-sync-badge](https://hackmd.io/PZONu-AiSJW7igmKTZL7Cg/badge)](https://hackmd.io/PZONu-AiSJW7igmKTZL7Cg)
 
 # UVa 11220 - Decoding the message
+
 
 ## 問題
 * 有兩位同學很有事，傳訊息因為怕被發現，所以加密後才傳送訊息
