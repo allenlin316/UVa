@@ -1,5 +1,8 @@
+[![hackmd-github-sync-badge](https://hackmd.io/SrIt215NQMSKGpePAlgnfA/badge)](https://hackmd.io/SrIt215NQMSKGpePAlgnfA)
 
 # UVa 1594 - Ducci Sequence
+
+
 
 ## 問題
 * Ducci Sequence 是一組序列，它的下一組序列是由上一個序列中的 `相鄰數字` 的絕對差所形成
