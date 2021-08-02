@@ -1,5 +1,8 @@
+[![hackmd-github-sync-badge](https://hackmd.io/9QUD-H6qS4eIZit9yIvVyg/badge)](https://hackmd.io/9QUD-H6qS4eIZit9yIvVyg)
 
 # UVa 10221 - Satellites
+
+
 
 ## 問題
 * 有一個同心圓，內圓為地球，外圓為衛星軌道
