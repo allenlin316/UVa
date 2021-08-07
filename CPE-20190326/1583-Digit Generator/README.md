@@ -1,5 +1,8 @@
+[![hackmd-github-sync-badge](https://hackmd.io/zzORDYB0T9OGcF_LQV_KFw/badge)](https://hackmd.io/zzORDYB0T9OGcF_LQV_KFw)
 
 # UVa 1583 - Digit Generator
+
+
 
 ## 問題
 * N 的 `digit-sum` 定義成 N 的每一位數加 N 自己本身
