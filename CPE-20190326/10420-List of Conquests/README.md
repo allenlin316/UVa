@@ -1,5 +1,8 @@
+[![hackmd-github-sync-badge](https://hackmd.io/NlNMN8vwTHW65uthUuL7gg/badge)](https://hackmd.io/NlNMN8vwTHW65uthUuL7gg)
 
 # UVa 10420 - List of Conquests
+
+
 
 ## 問題
 * 每一個國家會有對應的人名(不只一個人)，要計算每一個國家有幾個人
