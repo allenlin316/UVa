@@ -1,5 +1,8 @@
+[![hackmd-github-sync-badge](https://hackmd.io/6n9BD7AvRe-DNt8B3yqY5g/badge)](https://hackmd.io/6n9BD7AvRe-DNt8B3yqY5g)
 
 # UVa 1056 - Degrees of Separation
+
+
 
 ## 問題
 * 給你一堆人名，要你在這些人中找到 `最大分離程度(maximum degree of separation)`
