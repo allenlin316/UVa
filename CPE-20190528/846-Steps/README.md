@@ -1,5 +1,8 @@
+[![hackmd-github-sync-badge](https://hackmd.io/idYjrKGlQKaPfilGfI_jcA/badge)](https://hackmd.io/idYjrKGlQKaPfilGfI_jcA)
 
 # UVa 846 - Steps
+
+
 
 ## 問題
 * 走樓梯題目，每一步只能跟前一步 `少一步、一樣、多一步` 
