@@ -1,5 +1,8 @@
+[![hackmd-github-sync-badge](https://hackmd.io/lI6wNCgQS7eVZYHIhNiuVQ/badge)](https://hackmd.io/lI6wNCgQS7eVZYHIhNiuVQ)
 
 # UVa 1207 - AGTC
+
+
 
 ## 問題
 * 給你兩個字串 x、y，從 x 要做幾次修改才會變成 y (minimum)
