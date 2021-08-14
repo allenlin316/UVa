@@ -1,5 +1,8 @@
+[![hackmd-github-sync-badge](https://hackmd.io/XaXvjgEWSOaoqBRIFbYKtQ/badge)](https://hackmd.io/XaXvjgEWSOaoqBRIFbYKtQ)
 
 # UVa 10550 - Combination Lock
+
+
 
 ## 問題
 * 美國很常用的鎖，密碼有三個號碼分別為 0~39。解開密碼要透過以下規則
