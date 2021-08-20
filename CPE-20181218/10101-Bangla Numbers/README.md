@@ -1,5 +1,8 @@
+[![hackmd-github-sync-badge](https://hackmd.io/PC9arig4Sv2vrQ1mYff_cw/badge)](https://hackmd.io/PC9arig4Sv2vrQ1mYff_cw)
 
 # UVa 10101 - Bangla Numbers
+
+
 
 ## 問題
 * 給一個數字，要用 bangla 標示
