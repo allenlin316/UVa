@@ -1,5 +1,8 @@
+[![hackmd-github-sync-badge](https://hackmd.io/rKv__XO6TbqFkkgPh_8iLQ/badge)](https://hackmd.io/rKv__XO6TbqFkkgPh_8iLQ)
 
 # UVa 294 - Divisors
+
+
 
 ## 問題
 * 求出範圍內(包括邊界值)有最多因數的數，及求出最多有幾個因數
